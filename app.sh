@@ -1,3 +1,3 @@
 #! /usr/local/bin/bash 
 
-echo "Hello, Mac OSX";
+echo "Hello there, Mac OSX";
